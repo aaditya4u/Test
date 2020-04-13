@@ -1,1 +1,24 @@
-this is the first push branch Test file 1
+this is the first push branch Test file 1 
+
+data for github codings lesson 1
+
+*aws default usernames*
+
+amazon linux - ec2-user
+ubantu - ubuntu
+redhat - ec2-user
+centos - centos
+windows - administrator
+
+-------------------------------------------------
+
+git is a scm (source code management), also called version control system
+sudo su - become root user
+yum is a utility to install or remove software from linux machines
+
+yum install git
+yum remove git
+
+-------------------------------------------------
+
+
